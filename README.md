@@ -18,6 +18,6 @@ https://jacksonuptain.github.io/Parallax-Effect-FullCode-From-TrueCoderYT/3D-Par
 <strong>How do I use this?</strong>
 <br>Just download the zip file or copy and paste the code from this repo, and enjoy.
 
-Feel free to swap oit the images...but you will need to cnange there positions on the page using Css:(top, center, left, etc.)<br>![EBF4784A-DE66-4044-9D90-FF6B7C78FACD](https://github.com/JacksonUptain/Parallax-Effect-FullCode-From-TrueCoderYT/assets/111402072/4ecddef8-0706-4951-a4e2-65789c582afe)
+Feel free to swap out the images...but you will need to change there positions on the page using Css:(top, center, left, etc.)<br>![EBF4784A-DE66-4044-9D90-FF6B7C78FACD](https://github.com/JacksonUptain/Parallax-Effect-FullCode-From-TrueCoderYT/assets/111402072/4ecddef8-0706-4951-a4e2-65789c582afe)
 ![88647FE7-3B98-4563-802C-5CE6618F7241](https://github.com/JacksonUptain/Parallax-Effect-FullCode-From-TrueCoderYT/assets/111402072/13a75da2-3dc7-4e82-af8e-fcbb881edfea)
 
